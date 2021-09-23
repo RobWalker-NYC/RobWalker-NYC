@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-<!--
-**RobWalker-NYC/RobWalker-NYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 As a software engineer I am a fellow of Pursuit's full stack web development program: A 12-month, Google-funded software engineering fellowship with a 9% acceptance rate whose graduates have been hired as developers at leading companies such as Pinterest, JP Morgan, and Spotify.
 
 I love tech, CES is my Comic-Con from hardware, gadgets and gizmos to software especially Java Script, HTML & CSS.
 
 I'm a great fit for anyone looking for a team player, a tech geek, a food enthusiast, who is up for almost anything. I want to advocacy for community, and equality at companies like Netflix, Google, Apple or Hinge - companies with strong ethics, committed to their employees, community and the environment.
+
+<!--
+**RobWalker-NYC/RobWalker-NYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
