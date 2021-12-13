@@ -4,7 +4,7 @@ As a software engineer I am a fellow of Pursuit's full stack web development pro
 
 I love tech, CES is my Comic-Con from hardware, gadgets and gizmos to software especially Java Script, HTML & CSS.
 
-I'm a great fit for anyone looking for a team player, a tech geek, a food enthusiast, who is up for almost anything. I want to advocacy for community, and equality at companies like Netflix, Google, Apple or Hinge - companies with strong ethics, committed to their employees, community and the environment.
+I'm a great fit for anyone looking for a team player, a tech geek, a food enthusiast, who is up for almost anything. I want to advocate for community, and equality at companies like Netflix, Google, Apple or Hinge - companies with strong ethics, committed to their employees, community and the environment.
 
 <!--
 **RobWalker-NYC/RobWalker-NYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
